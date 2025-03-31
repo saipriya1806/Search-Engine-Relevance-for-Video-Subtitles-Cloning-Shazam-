@@ -1,0 +1,6 @@
+streamlit
+numpy
+assemblyai
+sentence-transformers
+plotly
+pandas
